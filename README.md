@@ -1,10 +1,10 @@
 ## Olá, sou o João!!
 
-#Conhecimento em C, Java, Html/CSS.
+Conhecimento em C, Java, Html/CSS.
 
-#Me desenvolvendo em JavaScript e ReactJS.
+Me desenvolvendo em JavaScript e ReactJS.
 
-#Apaixonado por tecnologia e jogos.
+Apaixonado por tecnologia e jogos.
 
 [![Ov3r-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ov3r-dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
