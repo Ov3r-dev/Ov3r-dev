@@ -5,6 +5,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedrodev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-07030628a/)
 
+#Conhecimento em C, Java, Html/CSS.
+#Me desenvolvendo em JavaScript e ReactJS.
+#Apaixonado por tecnologia e jogos.
+
 [![Ov3r-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ov3r-dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ov3r-dev&langs_count=8&theme=dark&layout=donut-vertical)
