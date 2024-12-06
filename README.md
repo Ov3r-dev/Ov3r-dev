@@ -1,4 +1,4 @@
-## Olá, sou o João!!
+# Olá, sou o João!!
 
 Conhecimento em C, Java, Html/CSS.
 
@@ -6,8 +6,10 @@ Me desenvolvendo em JavaScript e ReactJS.
 
 Apaixonado por tecnologia e jogos.
 
-##Peça Ajuda!
+## Peça Ajuda! 
+
 WhatsApp: (61)99199-9891
+
 Discord: ov3r#8997
 
 [![Ov3r-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ov3r-dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
