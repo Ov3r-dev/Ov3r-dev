@@ -9,6 +9,7 @@ Apaixonado por tecnologia e jogos.
 ##Peça Ajuda!
 WhatsApp: (61)99199-9891
 Discord: ov3r#8997
+
 [![Ov3r-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ov3r-dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ov3r-dev&langs_count=8&theme=dark&layout=donut-vertical)
